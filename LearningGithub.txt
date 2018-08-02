@@ -1,0 +1,6 @@
+1. git add . --> stages a file 
+2. git commit --> Confirms the staging
+3. git push --> puts it on the server
+4. git pull -->Pulls everything which your computer does not have but the server has
+5. get checkout -b <brach-name> --> Creates a new branch and switches to it ! 
+6. git push -u origin <branch-name> -->Pushes your local branch on the server ! 
